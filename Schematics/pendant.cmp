@@ -1,0 +1,87 @@
+Cmp-Mod V01 Created by Cvpcb (2014-jul-16 BZR unknown)-MacPorts   date = Martedì 23 Dicembre 2014 13:13:18
+
+BeginCmp
+TimeStamp = /54956CD2;
+Reference = BT1;
+ValeurCmp = BATTERY;
+IdModule  = Discret:CR2032H;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496EF68;
+Reference = C1;
+ValeurCmp = 22p;
+IdModule  = SMD_Packages:SMD-0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496EF3B;
+Reference = C2;
+ValeurCmp = 22p;
+IdModule  = SMD_Packages:SMD-0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496F28F;
+Reference = C3;
+ValeurCmp = 100n;
+IdModule  = SMD_Packages:SMD-0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /549899B1;
+Reference = C4;
+ValeurCmp = 100n;
+IdModule  = SMD_Packages:SMD-0402;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496EA53;
+Reference = CON1;
+ValeurCmp = USB-MINI-B;
+IdModule  = Connect:USB_Mini-B;
+EndCmp
+
+BeginCmp
+TimeStamp = /5499257C;
+Reference = D1;
+ValeurCmp = DIODESCH;
+IdModule  = Discret:D3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5499558E;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = LEDs:LED-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /5499574A;
+Reference = R1;
+ValeurCmp = 150;
+IdModule  = Resistors_SMD:R_0805_HandSoldering;
+EndCmp
+
+BeginCmp
+TimeStamp = /5496C0E6;
+Reference = U1;
+ValeurCmp = PIC18F2550;
+IdModule  = Housings_SOIC:SOIC-28_7.5x17.9mm_Pitch1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5491FDDE;
+Reference = U2;
+ValeurCmp = LTP-7357AG;
+IdModule  = Dot Matrix:LTP-7357AG;
+EndCmp
+
+BeginCmp
+TimeStamp = /5497014D;
+Reference = X1;
+ValeurCmp = CRYSTAL;
+IdModule  = Crystals:Crystal_HC49-U_Horizontal_Typ1;
+EndCmp
+
+EndListe

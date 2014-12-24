@@ -1,0 +1,7 @@
+docs/
+*.bak
+
+Schematics/*-cache.lib
+
+Code/build
+Code/dist
