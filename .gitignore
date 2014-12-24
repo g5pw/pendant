@@ -5,3 +5,6 @@ Schematics/*-cache.lib
 
 Code/build
 Code/dist
+Code/nbproject/private/
+Code/nbproject/Makefile-*
+Code/nbproject/Package-*
